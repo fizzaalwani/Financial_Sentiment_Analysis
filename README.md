@@ -9,4 +9,4 @@ For Evaluation:
 Evaluate the current models (Logistic Regression, Naive Bayes, SVM, ANN, LSTM) comprehensively using metrics like precision, recall, F1-score, and confusion matrices for each class.
 
 Future Goals:
-Used word2Vec 
+Using word2Vec 
